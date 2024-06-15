@@ -2,8 +2,8 @@
 layout: default
 ---
 
-
-[résumé](bob-wilson-resume-computer-science.pdf) | [email](mailto:wilso169@msu.edu) | [GitHub](https://github.com/bobgwilson/) | [LinkedIn](https://www.linkedin.com/in/bobgwilson/) | 248-797-5239 
+<a href="https://bobgwilson.github.io/bob-wilson-resume-computer-science.pdf" target="_blank">résumé</a>
+| [email](mailto:wilso169@msu.edu) | [GitHub](https://github.com/bobgwilson/) | [LinkedIn](https://www.linkedin.com/in/bobgwilson/) | 248-797-5239 
 
 
 ## Bob Wilson, Software Engineer
