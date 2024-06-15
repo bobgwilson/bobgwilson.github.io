@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<a href="https://bobgwilson.github.io/bob-wilson-resume-computer-science.pdf" target="_blank">résumé</a> | [email](mailto:wilso169@msu.edu) | <a href="https://github.com/bobgwilson/"target="_blank">GitHub</a> | <a href="https://www.linkedin.com/in/bobgwilson/" target="_blank">LinkedIn</a> | 248-797-5239 
+<a href="https://bobgwilson.github.io/bob-wilson-resume-computer-science.pdf" target="_blank">résumé</a> | [email](mailto:wilso169@msu.edu) | <a href="https://github.com/bobgwilson/" target="_blank">GitHub</a> | <a href="https://www.linkedin.com/in/bobgwilson/" target="_blank">LinkedIn</a> | 248-797-5239 
 
 ## Bob Wilson, Software Engineer
 Hi, I'm a Computer Science major at Michigan State University. After a long career as an Animator, I'm changing careers by studying Computer Science to become a Software Engineer. I live in Ann Arbor, MI.
