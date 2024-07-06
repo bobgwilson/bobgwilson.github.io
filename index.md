@@ -2,16 +2,15 @@
 layout: default
 ---
 
-<a href="https://bobgwilson.github.io/bob-wilson-resume-computer-science.pdf" target="_blank">résumé</a> | [email](mailto:wilso169@msu.edu) | <a href="https://github.com/bobgwilson/" target="_blank">GitHub</a> | <a href="https://www.linkedin.com/in/bobgwilson/" target="_blank">LinkedIn</a> | 248-797-5239 
+<a href="https://bobgwilson.github.io/bob-wilson-resume-computer-science.pdf" target="_blank">résumé</a> | [email](mailto:bobgwilson.cs@gmail.com) | <a href="https://github.com/bobgwilson/" target="_blank">GitHub</a> | <a href="https://www.linkedin.com/in/bobgwilson/" target="_blank">LinkedIn</a> | 248-797-5239 
 
-## Bob Wilson, Software Engineer
+## Bob Wilson, Computer Science Student
 Hi, I'm a Computer Science major at Michigan State University. After a long career as an Animator, I'm changing careers by studying Computer Science to become a Software Engineer. I live in Ann Arbor, MI.
 
 ## Michigan State University
-I'm pursuing a Bachelor of Science in Computer Science with a Math Cognate. My expected graduation date is December 2026. I'm having a great time learning C++ in CSE232 and Discrete Math in CSE260. I'm super excited about all the programming classes I'll be taking at MSU.
+I'm pursuing a Bachelor of Science in Computer Science with a Math Cognate. My expected graduation date is December 2026. I recently finished a C++ class (CSE232), and Discrete Structures in Computer Science (CSE260) and got a perfect 4.0 GPA in both classes. I'm super excited about all the programming classes I'll be taking at MSU.
 
 For my senior electives, I plan to take CSE435 Software Engineering and CSE472 Computer Graphics because I love creating software and computer graphics. I will take CSE434 Autonomous Vehicles as I love robotics and cars. I also plan to study Machine Learning in CSE404 and Artificial Intelligence in CSE404.
-
 
 ## Skydio Robotics Software Engineering Internship
 
