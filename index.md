@@ -33,5 +33,9 @@ I achieved a perfect 4.0 GPA and was on the Dean's List - High Honors.
 
 ## Previous Career in Animation
 
-Please see my separate <a href="http://www.bobwilsonanimation.com/" target="_blank">animation website</a> for more info on my previous career as an Animator working at some of the world's top studios in Feature Animation, Visual Effects, and Video Games.
+Previously, I worked in the Entertainment industry on a number of blockbuster films, TV shows, and video games at some of the world’s top studios in Feature Animation (Pixar, DreamWorks), Visual Effects (Industrial Light & Magic, Digital Domain, MPC, Tippett), and Games (PlayStation, Electronic Arts).
+
+While working at Skidmore Studio, I worked in the Advertising industry on TV commercials for major brands with ad agencies Doner, Campbell-Ewald, J. Walter Thompson, and Young & Rubicam. I also worked on a variety of automotive visualization projects for General Motors.
+
+Please see my separate <a href="http://www.bobwilsonanimation.com/" target="_blank">animation website</a> for more info on my previous career as an Animator.
 
