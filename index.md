@@ -5,7 +5,7 @@ layout: default
 <a href="https://bobgwilson.github.io/bob-wilson-resume-computer-science.pdf" target="_blank">résumé</a> | [email](mailto:bobgwilson.cs@gmail.com) | <a href="https://github.com/bobgwilson/" target="_blank">GitHub</a> | <a href="https://www.linkedin.com/in/bobgwilson/" target="_blank">LinkedIn</a> | 248-797-5239 
 
 ## Bob Wilson, Computer Science Student
-Hi, I'm a Computer Science major at Michigan State University, seeking a summer 2025 Software Engineering internship in Southeast Michigan or remote.
+Hi, I'm a Computer Science Student at Michigan State University seeking a Software Engineering Internship or Co-op in Southeast Michigan or remote.
 
 ## Michigan State University
 I'm pursuing a Bachelor of Science in Computer Science with a Math Cognate. My expected graduation date is May 2027. I recently finished a C++ class (CSE232), and Discrete Structures in Computer Science (CSE260) and got a perfect 4.0 GPA in both classes. I'm super excited about all the programming classes I'll be taking at MSU.
