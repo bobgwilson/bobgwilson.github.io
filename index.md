@@ -8,9 +8,12 @@ layout: default
 Hi, I'm a Computer Science Student at Michigan State University seeking a Software Engineering Internship or Co-op in Southeast Michigan or remote.
 
 ## Michigan State University
-I'm pursuing a Bachelor of Science in Computer Science with a Math Cognate. My expected graduation date is May 2027. I recently finished a C++ class (CSE232), and Discrete Structures in Computer Science (CSE260) and got a perfect 4.0 GPA in both classes. I'm super excited about all the programming classes I'll be taking at MSU.
+I'm pursuing a Bachelor of Science in Computer Science with a Math Cognate. My expected graduation date is May 2027. In Summer 2024 I got a perfect 4.0 GPA in all classes at MSU: Discrete Structures in Computer Science (CSE 260), Calculus 1 (MTH 132) and the C++ class Introduction to Programming 2 (CSE 232), where I was one <a href="https://msugrades.com/courses/CSE_232/semesters#summer-2024" target="_blank">out of only seven students out of 96 to get an A</a>.
 
-For my senior electives, I plan to take CSE435 Software Engineering and CSE472 Computer Graphics because I love creating software and computer graphics. I will take CSE434 Autonomous Vehicles as I love robotics and cars. I also plan to study Machine Learning in CSE404 and Artificial Intelligence in CSE404.
+
+In Fall 2024, I'm currently taking Introduction to Engineering Design (EGR 100), Calculus 2 (MTH 133), and a more advanced C++ class called Object-Oriented Software Design (CSE 335).
+
+I'm super excited about all the programming classes I'll be taking at MSU. For my senior electives, I plan to take CSE435 Software Engineering and CSE472 Computer Graphics because I love creating software and computer graphics. I will take CSE434 Autonomous Vehicles as I love robotics and cars. I also plan to study Machine Learning in CSE404 and Artificial Intelligence in CSE404.
 
 ## Skydio Robotics Software Engineering Internship
 
