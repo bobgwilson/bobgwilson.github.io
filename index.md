@@ -10,9 +10,9 @@ Hi, I'm a Computer Science Student at Michigan State University seeking a Softwa
 ## Michigan State University
 I'm pursuing a Bachelor of Science in Computer Science with a Math Cognate. My expected graduation date is May 2027. In Summer 2024 I got a perfect 4.0 GPA in all classes at MSU: Discrete Structures in Computer Science (CSE 260), Calculus 1 (MTH 132) and the C++ class Introduction to Programming 2 (CSE 232), where <a href="https://msugrades.com/courses/CSE_232/semesters#summer-2024" target="_blank">I was one of only 7 students out of 96 to get an A</a>.
 
-In Fall 2024, I'm currently taking Introduction to Engineering Design (EGR 100), Calculus 2 (MTH 133), and a more advanced C++ class called Object-Oriented Software Design (CSE 335).
+In Fall 2024, I'm currently taking Introduction to Engineering Design (EGR 100), Calculus 2 (MTH 133), and the more advanced C++ class Object-Oriented Software Design (CSE 335).
 
-I'm super excited about all the programming classes I'll be taking at MSU. For my senior electives, I plan to take CSE435 Software Engineering and CSE472 Computer Graphics because I love creating software and computer graphics. I will take CSE434 Autonomous Vehicles as I love robotics and cars. I also plan to study Machine Learning in CSE404 and Artificial Intelligence in CSE404.
+I'm excited about the programming classes I'll be taking in the future at MSU. For my senior electives, I plan to take Software Engineering (CSE 435) and Computer Graphics (CSE 472), Autonomous Vehicles (CSE 434), Machine Learning (CSE 404), and Artificial Intelligence (CSE 404).
 
 ## Skydio Robotics Software Engineering Internship
 
