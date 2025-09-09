@@ -10,12 +10,15 @@ layout: default
 
 ## Bob Wilson, Computer Science and Game Development Student
 Hi, I'm an experienced animator seeking to transition into more technical roles by studying Computer Science and Game Development at Michigan State University.
+
+I'm a Unity Certified User: Programmer working as a Game Development Intern at Will Winn Games, programming C# in Unity for the upcoming game BlastBall: All-Stars.
+
 I'm seeking internships in software engineering, game programming, technical animation, or animation engineering. 
 
 ## Michigan State University
 I'm pursuing a Bachelor of Science in Computer Science with a Concentration in Multimedia and Graphics,
 and a Minor in Game Design and Development.
-My expected graduation date is December 2027.
+My expected graduation date is May 2027.
 
 
 ## Recent Internships
